@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ParseBigDecimalError",""]],"struct":[["BigDecimal","A big decimal type."]]});
